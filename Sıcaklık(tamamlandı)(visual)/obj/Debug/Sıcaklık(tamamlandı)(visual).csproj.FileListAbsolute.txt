@@ -1,0 +1,11 @@
+C:\Users\serca\Desktop\Proje Son Halleri\Sıcaklık(tamamlandı)(visual)\Sıcaklık(tamamlandı)(visual)\bin\Debug\Sıcaklık(tamamlandı)(visual).exe.config
+C:\Users\serca\Desktop\Proje Son Halleri\Sıcaklık(tamamlandı)(visual)\Sıcaklık(tamamlandı)(visual)\bin\Debug\Sıcaklık(tamamlandı)(visual).exe
+C:\Users\serca\Desktop\Proje Son Halleri\Sıcaklık(tamamlandı)(visual)\Sıcaklık(tamamlandı)(visual)\bin\Debug\Sıcaklık(tamamlandı)(visual).pdb
+C:\Users\serca\Desktop\Proje Son Halleri\Sıcaklık(tamamlandı)(visual)\Sıcaklık(tamamlandı)(visual)\obj\Debug\Sıcaklık(tamamlandı)(visual).csproj.AssemblyReference.cache
+C:\Users\serca\Desktop\Proje Son Halleri\Sıcaklık(tamamlandı)(visual)\Sıcaklık(tamamlandı)(visual)\obj\Debug\Sıcaklık(tamamlandı)(visual).csproj.SuggestedBindingRedirects.cache
+C:\Users\serca\Desktop\Proje Son Halleri\Sıcaklık(tamamlandı)(visual)\Sıcaklık(tamamlandı)(visual)\obj\Debug\Sıcaklık_tamamlandı__visual_.Form1.resources
+C:\Users\serca\Desktop\Proje Son Halleri\Sıcaklık(tamamlandı)(visual)\Sıcaklık(tamamlandı)(visual)\obj\Debug\Sıcaklık_tamamlandı__visual_.Properties.Resources.resources
+C:\Users\serca\Desktop\Proje Son Halleri\Sıcaklık(tamamlandı)(visual)\Sıcaklık(tamamlandı)(visual)\obj\Debug\Sıcaklık(tamamlandı)(visual).csproj.GenerateResource.cache
+C:\Users\serca\Desktop\Proje Son Halleri\Sıcaklık(tamamlandı)(visual)\Sıcaklık(tamamlandı)(visual)\obj\Debug\Sıcaklık(tamamlandı)(visual).csproj.CoreCompileInputs.cache
+C:\Users\serca\Desktop\Proje Son Halleri\Sıcaklık(tamamlandı)(visual)\Sıcaklık(tamamlandı)(visual)\obj\Debug\Sıcaklık(tamamlandı)(visual).exe
+C:\Users\serca\Desktop\Proje Son Halleri\Sıcaklık(tamamlandı)(visual)\Sıcaklık(tamamlandı)(visual)\obj\Debug\Sıcaklık(tamamlandı)(visual).pdb
